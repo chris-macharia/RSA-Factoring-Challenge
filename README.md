@@ -86,10 +86,6 @@ Factorize as many numbers as possible into a product of two smaller numbers.
 	77
 ```
 
-## Author
-
-[David Atat](www.github.com/daveeazi)
-
 ## Resources
 
 - [RSA](<https://en.wikipedia.org/wiki/RSA_(cryptosystem%29)>)
